@@ -1,6 +1,6 @@
 # 🐍 Python Assignments & Answers
 
-This repository contains complete solutions to assignment questions, practice tasks, and lab exercises for academic and introductory Python programming courses.
+This repository contains complete solutions to assignment questions, practice tasks and lab exercises for academic and introductory Python programming courses.
 
 ---
 
