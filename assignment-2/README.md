@@ -4,8 +4,7 @@ A simple interactive console program built with Python that takes two numeric in
 
 ---
 
-## 📝 Assignment Question:-
-
+## 📝 Assignment Question
 **Program to add two integers. Take input from user.**
 
 ---
