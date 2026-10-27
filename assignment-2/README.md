@@ -4,6 +4,12 @@ A simple interactive console program built with Python that takes two numeric in
 
 ---
 
+## 📝 Assignment Question:-
+
+**Program to add two integers. Take input from user.**
+
+---
+
 ## 🎮 How It Works
 
 1. The script prompts the user to enter the first number via the console.
