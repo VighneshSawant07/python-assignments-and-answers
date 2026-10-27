@@ -4,6 +4,12 @@ A classic first step into programming built with Python. This script outputs the
 
 ---
 
+## Assignment Question:-
+
+**Print hello world.**
+
+---
+
 ## 🎮 How It Works
 
 1. The script initializes the Python runtime environment.
