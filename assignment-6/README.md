@@ -4,6 +4,12 @@ A lightweight console utility built with Python that takes the marks of two inte
 
 ---
 
+## 📝 Assignment Question
+
+**Take the IA1 and IA2 marks from the user and find out whether he/she will pass the IA exam or not.**
+
+---
+
 ## 🎮 How It Works
 
 1. Prompts the user to enter their IA1 marks and casts the input to an integer stored in variable `IA1`.
