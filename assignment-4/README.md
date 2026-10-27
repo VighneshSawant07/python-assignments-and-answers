@@ -6,7 +6,7 @@ A lightweight console utility built with Python that takes two numbers from the 
 
 ## 📝 Assignment Question 
 
-**Swap two numbers. **
+**Swap two numbers.**
 
 ---
 
