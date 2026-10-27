@@ -4,6 +4,12 @@ A lightweight console utility built with Python that takes three numbers from th
 
 ---
 
+## 📝 Assignment Question
+
+**Find the Largest of Three Numbers**
+
+---
+
 ## 🎮 How It Works
 
 1. Prompts the user three times to input numbers via the console using `input()`.
