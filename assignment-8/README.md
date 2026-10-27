@@ -4,6 +4,12 @@ A lightweight console utility built with Python that takes a number from the use
 
 ---
 
+## 📝 Assignment Question
+
+**Calculate factorial of a number.**
+
+---
+
 ## 🎮 How It Works
 
 1. Prompts the user with `"Enter number to find its factorial : "` via the console.
