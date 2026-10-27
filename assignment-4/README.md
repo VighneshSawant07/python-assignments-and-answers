@@ -4,6 +4,12 @@ A lightweight console utility built with Python that takes two numbers from the 
 
 ---
 
+## 📝 Assignment Question 
+
+**Swap two numbers. **
+
+---
+
 ## 🎮 How It Works
 
 1. Prompts the user twice to enter two numbers via the console using `input()`.
