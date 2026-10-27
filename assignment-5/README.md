@@ -4,6 +4,12 @@ A lightweight console script built with Python that calculates the total area of
 
 ---
 
+## 📝 Assignment Question
+
+**A cricket stadium has radius 30 meter. What is the area of stadium.**
+
+---
+
 ## 🎮 How It Works
 
 1. Imports Python's built-in `math` module to access high-precision mathematical constants.
